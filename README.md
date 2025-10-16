@@ -57,8 +57,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samjith-krishnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&border_radius=15" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samjith-krishnan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
-
 </div>
 
 ---
