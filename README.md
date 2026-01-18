@@ -52,19 +52,11 @@
 
 ---
 
-### ⚡ GitHub Stats
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samjith-krishnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&border_radius=15" />
-
-</div>
 
 ---
 
-### 💾 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjith-krishnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
-</div>
+
 
 ---
 
